@@ -2,6 +2,9 @@
   1.1. Go into woods
   1.2. Search area
   1.3. Collect wood
+    1.3.1. Bend down over wood
+    1.3.2. Grab wood
+    1.3.3. Stand up
 2. Set up pit
   2.1. Clear area
   2.2. Gather rocks around area
